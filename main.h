@@ -32,6 +32,7 @@ typedef struct path_list
 char *_getline(void);
 char _errorstring(char *str);
 char **tokenize(char *line);
+void print_array(int *a, int n)
 void _execute(char **tokens);
 int _my_exit(void);
 int _strlen(const char *s);
