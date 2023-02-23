@@ -1,4 +1,4 @@
-A simple shell created for Holberton School as a partner project with Ayodele Fapetu and Praise Obah
+A simple shell created for ALX School as a partner project with Ayodele Fapetu and Praise Obah
 
 QUICK START
 To start up simple_shell, compile using gcc -Wall -Werror -Wextra -pedantic *.c -o hsh.
